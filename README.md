@@ -179,7 +179,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📚 References
 
-1. Saha & Ghosh. "EKF-EM Paradigm for Robust State Estimation"
+1. Saha, M., & Ghosh, R. (2024). "Tuning the EKF using estimated measurements (EKF-EM) for balanced performances." Measurement, 236, 115017.
+https://www.sciencedirect.com/science/article/abs/pii/S0263224124010017
 
 ## ⚡ Quick Start
 
