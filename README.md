@@ -52,7 +52,7 @@ dz/dt = xy - βz
 ```
 
 **EKF Jacobian:**
-![Jacobian](images/jacobian_deriva.png)
+![Jacobian](images/jacobian_derivation.png)
 
 The Jacobian matrix enables linearization of the nonlinear Lorenz dynamics for covariance propagation in the EKF prediction step.
 
