@@ -185,14 +185,14 @@ https://www.sciencedirect.com/science/article/abs/pii/S0263224124010017
 ## ⚡ Quick Start
 
 ```bash
-# Clone repository
+# Clone the repository
 git clone https://github.com/realyashagarwal/lorenz-ekf-demonstration
-cd ekf-lorenz-demo
+cd lorenz-ekf-demonstration
 
-# Install dependencies  
+# Install dependencies
 pip install -r requirements.txt
 
-# Run demonstration
+# Run the demonstration
 python demo.py
 ```
 
